@@ -42,6 +42,7 @@ public class Caterpillar
         System.out.println("Red apple: \uD83C\uDF4E");
         System.out.println("Green apple: " + GREEN_APPLE_EMOJI);
         System.out.println("Clover: \uD83C\uDF40");
+        System.out.println("Red Banana: " + RED + "\uD83C\uDF4C " );
     }
 
     // this method "throws exceptions" which is an
@@ -55,119 +56,119 @@ public class Caterpillar
         System.out.println(GREEN_APPLE_EMOJI + "                " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("                  ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("                 \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "               " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("                 ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("                \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "              " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("                ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("               \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "             " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("               ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("              \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "            " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("              ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("             \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "           " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("             ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("            \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "          " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("            ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("           \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "         " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("           ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("          \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "        " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("          ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("         \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "       " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("         ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("        \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "      " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("        ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("       \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "     " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("       ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("      \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "    " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("      ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("     \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "   " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("     ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("    \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + "  " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("    ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("   \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + " " + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("   ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(RED);
         System.out.println("  \\_/-.--.--.--.--.--.");
         System.out.println(GREEN_APPLE_EMOJI + BLUE + "(\")__)__)__)__)__)__)");
         System.out.print(WHITE);
         System.out.println("  ^ \"\" \"\" \"\" \"\" \"\" \"\"\"");
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
         System.out.print(PURPLE);
         System.out.println(" \\_/-.--.--.--.--.--.");
